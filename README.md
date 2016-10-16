@@ -15,7 +15,7 @@ CO2 emission comparison using Iran's and Turkey's dataset from World Bank websit
 ![CO2 emission plot](output.png)
 
 
-# Requrements
+# Requirements
 1. Python 2
 1. Pandas
 2. Numpy
